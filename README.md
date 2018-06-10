@@ -1,4 +1,4 @@
-# wxPython
+# wxPython 中文简明教程
 
 翻译自 [http://zetcode.com/wxpython/](http://zetcode.com/wxpython/)
 
